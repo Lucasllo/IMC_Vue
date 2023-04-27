@@ -1,4 +1,7 @@
 # imc-app
+```
+Exercitando Vue com calculadora IMC
+```
 
 ## Project setup
 ```
